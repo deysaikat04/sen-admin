@@ -1,0 +1,13 @@
+[01-Nov-2017 12:38:35 Etc/GMT] PHP Fatal error:  Cannot redeclare Dashboard::view() in /home/piriaght/public_html/admin/application/controllers/Dashboard.php on line 337
+[01-Nov-2017 12:38:41 Etc/GMT] PHP Fatal error:  Cannot redeclare Dashboard::view() in /home/piriaght/public_html/admin/application/controllers/Dashboard.php on line 337
+[01-Nov-2017 13:12:19 Etc/GMT] PHP Fatal error:  Cannot redeclare Dashboard::view() in /home/piriaght/public_html/admin/application/controllers/Dashboard.php on line 337
+[01-Nov-2017 13:18:47 Etc/GMT] PHP Fatal error:  Cannot redeclare Dashboard::view() in /home/piriaght/public_html/admin/application/controllers/Dashboard.php on line 337
+[23-Dec-2017 05:09:11 Etc/GMT] PHP Fatal error:  Call to a member function result() on array in /home/piriaght/public_html/admin/application/views/partial/EditVehicle.php on line 281
+[23-Dec-2017 05:11:12 Etc/GMT] PHP Fatal error:  Call to a member function result() on array in /home/piriaght/public_html/admin/application/views/partial/EditVehicle.php on line 281
+[23-Dec-2017 13:14:22 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/piriaght/public_html/admin/application/views/partial/EditVehicle.php on line 325
+[23-Dec-2017 13:14:58 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/piriaght/public_html/admin/application/views/partial/EditVehicle.php on line 325
+[23-Dec-2017 14:51:00 Etc/GMT] PHP Fatal error:  Call to undefined method DashboardModel::deleteImageById() in /home/piriaght/public_html/admin/application/controllers/Dashboard.php on line 356
+[23-Dec-2017 14:51:34 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/piriaght/public_html/admin/application/models/DashboardModel.php on line 97
+[23-Dec-2017 14:51:38 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/piriaght/public_html/admin/application/models/DashboardModel.php on line 97
+[23-Dec-2017 14:52:29 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/piriaght/public_html/admin/application/models/DashboardModel.php on line 97
+[23-Dec-2017 17:35:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/piriaght/public_html/admin/application/views/partial/EditVehicle.php on line 322
